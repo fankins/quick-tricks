@@ -2,7 +2,7 @@ package redirect
 
 import (
 	"fmt"
-	"github.com/indigo-sadland/quick-tricks/utils/netclient"
+	"github.com/fankins/quick-tricks/utils/netclient"
 	"io"
 	"strings"
 )

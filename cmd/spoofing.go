@@ -2,8 +2,8 @@ package cmd
 
 import (
 	"fmt"
-	"github.com/indigo-sadland/quick-tricks/modules/spoofing"
-	"github.com/indigo-sadland/quick-tricks/utils/colors"
+	"github.com/fankins/quick-tricks/modules/spoofing"
+	"github.com/fankins/quick-tricks/utils/colors"
 	"github.com/spf13/cobra"
 )
 
